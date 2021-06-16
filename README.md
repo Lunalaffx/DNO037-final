@@ -22,11 +22,11 @@ de su obra al disponer precisamente de un autorretrato gigante de cuerpo complet
 
 ![página en blanco con un modeo 3d animado en el centro](/preproduccion/dmnc.png)
 ----
-
 http://www.dmncnation.com/
 ----
 En la página de DMNC, la atención se centra en un solo objeto 3d animado que engloba la estética, temática y el medio que utiliza este diseñador. Sólo con un elemento en el centro guía al usuario a comprender en pequeña medida de qué trata su trabajo y le invita a investigar más. 
-![Image alt text](/preproduccion/abdulla.png)
+
+![abdulla](/preproduccion/abdulla.png)
 ----
 http://www.abdullaelmaz.com/
 ----

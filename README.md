@@ -12,7 +12,7 @@ Exponer mi trabajo de una forma coherente, clara y propia de mi línea autoral.
 ![Image alt text](/path/to/img.jpg)
 
 ## ¿Qué existe que es similar a la propuesta? → antecedentes
-![Image alt text](/preproduccion/Filip Custic.jpeg)
+![Image alt text](/preproduccion/filip.jpeg)
 ![Image alt text](/path/to/img.jpg)
 ![Image alt text](/path/to/img.jpg)
 ![Image alt text](/path/to/img.jpg)

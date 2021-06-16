@@ -16,9 +16,15 @@ Esto es importante ya que la página web de artista debe entenderse como una ext
 ![Screenshot de página web de artista Filip Custic, que es un autoretrato de él con hipervínculos que llevan a las diferentes secciones de la página.](/preproduccion/filip.jpeg)
 ---------
 https://filipcustic.com/
+----
 La página de Filip Custic muestra su trabajo de una forma coherente con su línea autoral, ya que trabaja con la performatividad, el cuerpo y el autorretrato. Es una extensión
-de su obra.
-![Image alt text](/path/to/img.jpg)
+de su obra al disponer precisamente de un autorretrato gigante de cuerpo completo que vincula las categorías de la página al recorrer su cuerpo y encontrar simbologías.
+----
+![página en blanco con un modeo 3d animado en el centro](/preproduccion/dmnc.png)
+----
+http://www.dmncnation.com/
+----
+En la página de DMNC, la atención se centra en un solo objeto 3d animado que engloba la estética, temática y el medio que utiliza este diseñador. Sólo con un elemento en el centro guía al usuario a comprender en pequeña medida de qué trata su trabajo y le invita a investigar más. 
 ![Image alt text](/path/to/img.jpg)
 ![Image alt text](/path/to/img.jpg)
 ![Image alt text](/path/to/img.jpg)

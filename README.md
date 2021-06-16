@@ -26,7 +26,11 @@ de su obra al disponer precisamente de un autorretrato gigante de cuerpo complet
 http://www.dmncnation.com/
 ----
 En la página de DMNC, la atención se centra en un solo objeto 3d animado que engloba la estética, temática y el medio que utiliza este diseñador. Sólo con un elemento en el centro guía al usuario a comprender en pequeña medida de qué trata su trabajo y le invita a investigar más. 
-![Image alt text](/path/to/img.jpg)
+![Image alt text](/preproduccion/abdulla.png)
+----
+http://www.abdullaelmaz.com/
+----
+Abdulla Elmaz presenta una página web que expone su trabajo en un formato más similar a una revista o "feed", permite recorrer la información visual de forma más rápida y es más fácil que el usuario entienda su contenido sin exigirle la exploración. Tiene la ventaja de que es más accesible y menos exigente con quién visite la página.
 ![Image alt text](/path/to/img.jpg)
 ![Image alt text](/path/to/img.jpg)
 ![Image alt text](/path/to/img.jpg)

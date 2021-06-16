@@ -20,4 +20,4 @@ Exponer mi trabajo de una forma coherente, clara y propia de mi línea autoral.
 ![Image alt text](/path/to/img.jpg)
 
 ## ¿Qué existe que puede inspirar la propuesta? → referentes 
-![Image alt text](/path/to/img.jpg)
+![Image alt text](/preproduccion/moodboard.png)

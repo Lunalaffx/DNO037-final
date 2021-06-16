@@ -4,15 +4,17 @@
 Sitio web profesional // dominio propio.
 
 ## ¿Para qué?
-Exponer mi trabajo de una forma coherente, clara y propia de mi línea autoral.
+Exponer mi trabajo de una forma coherente, clara y propia de mi línea autoral. 
+Esto es importante ya que la página web de artista debe entenderse como una extensión del propio desarrollo de obra, es decir, debe dar cuenta de qué cosas representa al artista y qué cosas le identifica. Estas asociaciones suceden a través del uso de texturas, composición, tipografía, color, entre otras características estéticas que representen lo conceptual propio de la obra. 
 
 ## ¿Para quiénes? Usuarios extremos y usuarios promedio.
-![Image alt text](/preproduccion/persona1.jpg)
-![Image alt text](/preproduccion/persona2.jpg)
-![Image alt text](/path/to/img.jpg)
+![Plantilla con un cuerpo humano con globos de texto: qué piensa, qué siente, qué hace.](/preproduccion/persona1.jpg)
+![Plantilla con un cuerpo humano con globos de texto: qué piensa, qué siente, qué hace.](/preproduccion/persona2.jpg)
+![Plantilla con un cuerpo humano con globos de texto: qué piensa, qué siente, qué hace.](/path/to/img.jpg)
 
 ## ¿Qué existe que es similar a la propuesta? → antecedentes
-![Image alt text](/preproduccion/filip.jpeg)
+![Screenshot de página web de artista Filip Custic, que es un autoretrato de él con hipervínculos que llevan a las diferentes secciones de la página.](/preproduccion/filip.jpeg)
+---------
 https://filipcustic.com/
 La página de Filip Custic muestra su trabajo de una forma coherente con su línea autoral, ya que trabaja con la performatividad, el cuerpo y el autorretrato. Es una extensión
 de su obra.

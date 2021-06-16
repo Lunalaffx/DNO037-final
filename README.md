@@ -8,3 +8,4 @@ Exponer mi trabajo de una forma coherente, clara y propia de mi línea autoral.
 
 ## ¿Para quiénes? Usuarios extremos y usuarios promedio.
 ![Image alt text](/preproduccion/persona1.jpg)
+![Image alt text](/preproduccion/persona2.jpg)

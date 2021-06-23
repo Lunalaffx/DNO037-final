@@ -77,4 +77,10 @@ Estas imágenes remiten a un imaginario propio de lo que me interesa producir y 
 Las imágenes que remiten a productos, exposición y archivo están contempladas en este board  para representar sus categorías en la página. Estas categorías se definirían como:  manufactura de una producción de stock/merchandising/copias, registro de exposiciones o proyectos y  un portafolio de obras digitales, principalmente relacionadas con el 3D. Como tengo obras 3d que son explorativas que remiten al paisaje y al objeto, me gustaría colocar modelos que fundan su fondo con el de la página, y de esta forma permitirle  al usuario acercarse a la comprensión de la obra por medio de la interactividad sutil. 
 Los colores que me interesaría aplicar podrían ser rojo, azul eléctrico, fucsia, verde lima, violetas, o dicho de una forma más general, colores que se asocian con lo virtual. 
 
+1. Estética Virtual, archivo de obras digitales, modelos 3d.
+2. Registro de exposiciones, proyectos colectivos.
+3. Copias, merchandising, originales, impresiones 3d. 
+4. Procesos creativos.
 
+Finalmente también me gustaría incluir un About con información mía y mi statement.
+6. 

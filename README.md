@@ -52,24 +52,22 @@ http://www.abdullaelmaz.com/
 ----
 Abdulla Elmaz presenta una página web que expone su trabajo en un formato más similar a una revista o "feed", permite recorrer la información visual de forma más rápida y es más fácil que el usuario entienda su contenido sin exigirle la exploración. Tiene la ventaja de que es más accesible y menos exigente con quién visite la página.
 
-![antecedente 4](/preproduccion/4.png)
+![antecedente 4](/preproduccion/4.jpg)
 ----
-https://www.behance.net/gallery/121229331/Orris-Paris-Website?tracking_source=search_projects_recommended
+http://www.antesdelolvido.cl/
 ----
-Desde este antescedente en adelante son proyectos de diseño web que encontré en Behance, ya que fue lo que más se acercó a mi imaginario que pude encontrar. 
-En este caso me parece interesante el díptico con el cual se introduce la página y la composición general. 
-
-![Image alt text](/preproduccion/5.png)
+Antes del olvido es un proyecto que desarrollaron Cea y Baeza, profesores de la escuela de arte, para proponer una colaboración colectiva de registro de las intervenciones que sucedieron en las manifestaciones a finales del 2019. Presenta un mapa, modelos 3d del proyecto y accesibilidad clara a la información. 
+![Image alt text](/preproduccion/5.jpg)
 ----
-https://www.behance.net/gallery/119164797/GESSATO?tracking_source=search_projects_recommended
+https://lauren-mccarthy.com/
 ----
-En este ejemplo creo que es interesante plantear algo que ocupe tonos similares y sean contrastes muy sutiles, es agradable a la vista y no te satura de información, es más amable con el usuario y le ayuda a querer navegar. 
+Lauren Lee McCarthy es una artista medial, su página propone una gráfica muy propia de la estética del netart, y presenta una lista con las categorías de sus proyectos y trabajos. Es una presentación clara y ordenada manteniendo a la vez un imaginario propio de su contexto visual. 
 
 ![Image alt text](/preproduccion/6.png)
 ----
 https://www.behance.net/gallery/103434243/Pinatri-Web-Book?tracking_source=search_projects_recommended
 ----
-Me gusta que se incluyan en la tipografía elementos que conecten la autoría del poeta y se unifique como parte de su presentación. También me gusta el fondo negro y letras blancas. 
+De esta referencia de Behance, me gusta que se incluyan en la tipografía elementos que conecten la autoría del poeta y se unifique como parte de su presentación. También me gusta el fondo oscuro con letras blancas, ya que hace más agradable a la vista la página. 
 
 ## ¿Qué existe que puede inspirar la propuesta? → referentes 
 ![moodboard](/preproduccion/moodboard.png)

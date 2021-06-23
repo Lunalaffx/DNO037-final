@@ -31,10 +31,22 @@ En la página de DMNC, la atención se centra en un solo objeto 3d animado que e
 http://www.abdullaelmaz.com/
 ----
 Abdulla Elmaz presenta una página web que expone su trabajo en un formato más similar a una revista o "feed", permite recorrer la información visual de forma más rápida y es más fácil que el usuario entienda su contenido sin exigirle la exploración. Tiene la ventaja de que es más accesible y menos exigente con quién visite la página.
-![Image alt text](/path/to/img.jpg)
-![Image alt text](/path/to/img.jpg)
-![Image alt text](/path/to/img.jpg)
-
+![antecedente 4](/preproduccion/4.png)
+----
+https://www.behance.net/gallery/121229331/Orris-Paris-Website?tracking_source=search_projects_recommended
+----
+Desde este antescedente en adelante son proyectos de diseño web que encontré en Behance, ya que fue lo que más se acercó a mi imaginario que pude encontrar. 
+En este caso me parece interesante el díptico con el cual se introduce la página y la composición general. 
+![Image alt text](/preproduccion/5.png)
+----
+https://www.behance.net/gallery/119164797/GESSATO?tracking_source=search_projects_recommended
+----
+En este ejemplo creo que es interesante plantear algo que ocupe tonos similares y sean contrastes muy sutiles, es agradable a la vista y no te satura de información, es más amable con el usuario y le ayuda a querer navegar. 
+![Image alt text](/preproduccion/6.png)
+----
+https://www.behance.net/gallery/103434243/Pinatri-Web-Book?tracking_source=search_projects_recommended
+----
+Me gusta que se incluyan en la tipografía elementos que conecten la autoría del poeta y se unifique como parte de su presentación. También me gusta el fondo negro y letras blancas. 
 ## ¿Qué existe que puede inspirar la propuesta? → referentes 
 ![moodboard](/preproduccion/moodboard.png)
 ----

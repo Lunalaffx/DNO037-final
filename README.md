@@ -57,6 +57,7 @@ Abdulla Elmaz presenta una página web que expone su trabajo en un formato más 
 http://www.antesdelolvido.cl/
 ----
 Antes del olvido es un proyecto que desarrollaron Cea y Baeza, profesores de la escuela de arte, para proponer una colaboración colectiva de registro de las intervenciones que sucedieron en las manifestaciones a finales del 2019. Presenta un mapa, modelos 3d del proyecto y accesibilidad clara a la información. 
+
 ![Image alt text](/preproduccion/5.jpg)
 ----
 https://lauren-mccarthy.com/
@@ -70,7 +71,7 @@ https://www.behance.net/gallery/103434243/Pinatri-Web-Book?tracking_source=searc
 De esta referencia de Behance, me gusta que se incluyan en la tipografía elementos que conecten la autoría del poeta y se unifique como parte de su presentación. También me gusta el fondo oscuro con letras blancas, ya que hace más agradable a la vista la página. 
 
 ## ¿Qué existe que puede inspirar la propuesta? → referentes 
-![moodboard](/preproduccion/moodboard.png)
+![moodboard](/preproduccion/moodboard2.png)
 ----
 Estas imágenes remiten a un imaginario propio de lo que me interesa producir y exponer en la página. En relación a la visualidad de la página, se presenta como referencia un contraste entre colores vibrantes y negro/colores oscuros. Me interesaría tener elementos gráficos como la visualización de imágenes en forma circular, degradés en algunos detalles compositivos de la web o algunas tipografías. 
 Las imágenes que remiten a productos, exposición y archivo están contempladas en este board  para representar sus categorías en la página. Estas categorías se definirían como:  manufactura de una producción de stock/merchandising/copias, registro de exposiciones o proyectos y  un portafolio de obras digitales, principalmente relacionadas con el 3D. Como tengo obras 3d que son explorativas que remiten al paisaje y al objeto, me gustaría colocar modelos que fundan su fondo con el de la página, y de esta forma permitirle  al usuario acercarse a la comprensión de la obra por medio de la interactividad sutil. 

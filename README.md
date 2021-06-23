@@ -38,6 +38,8 @@ Abdulla Elmaz presenta una página web que expone su trabajo en un formato más 
 ## ¿Qué existe que puede inspirar la propuesta? → referentes 
 ![moodboard](/preproduccion/moodboard.png)
 ----
-Estas imágenes remiten a un imaginario propio de lo que me interesa producir y exponer en la página. En relación a la visualidad de la página, se presentan principalmente
-colores vibrantes, que responden a la idea de lo sintético o virtual. Hay imágenes que habla de productos, exposiciones y proceso, como también
-de recursos digitales. 
+Estas imágenes remiten a un imaginario propio de lo que me interesa producir y exponer en la página. En relación a la visualidad de la página, se presenta como referencia un contraste entre colores vibrantes y negro/colores oscuros. Me interesaría tener elementos gráficos como la visualización de imágenes en forma circular, degradés en algunos detalles compositivos de la web o algunas tipografías. 
+Las imágenes que remiten a productos, exposición y archivo están contempladas en este board  para representar sus categorías en la página. Estas categorías se definirían como:  manufactura de una producción de stock/merchandising/copias, registro de exposiciones o proyectos y  un portafolio de obras digitales, principalmente relacionadas con el 3D. Como tengo obras 3d que son explorativas que remiten al paisaje y al objeto, me gustaría colocar modelos que fundan su fondo con el de la página, y de esta forma permitirle  al usuario acercarse a la comprensión de la obra por medio de la interactividad sutil. 
+Los colores que me interesaría aplicar podrían ser rojo, azul eléctrico, fucsia, verde lima, violetas, o dicho de una forma más general, colores que se asocian con lo virtual. 
+
+

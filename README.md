@@ -8,9 +8,29 @@ Exponer mi trabajo de una forma coherente, clara y propia de mi línea autoral.
 Esto es importante ya que la página web de artista debe entenderse como una extensión del propio desarrollo de obra, es decir, debe dar cuenta de qué cosas representa al artista y qué cosas le identifica. Estas asociaciones suceden a través del uso de texturas, composición, tipografía, color, entre otras características estéticas que representen lo conceptual propio de la obra. 
 
 ## ¿Para quiénes? Usuarios extremos y usuarios promedio.
-![Plantilla con un cuerpo humano con globos de texto: qué piensa, qué siente, qué hace.](/preproduccion/persona1.png)
-![Plantilla con un cuerpo humano con globos de texto: qué piensa, qué siente, qué hace.](/preproduccion/persona2.png)
-![Plantilla con un cuerpo humano con globos de texto: qué piensa, qué siente, qué hace.](/preproduccion/persona3.png)
+Persona 1: 18 años, estudiante.
+---
+¿Qué piensa? Le interesa la creatividad, busca referencias e información sobre las artes digitales, le interesa la tecnología, la expresividad,lo que le pueda sorprender y  abrir las nociones de las artes visuales. 
+
+¿Qué siente? Siente interés por las artes en general y una necesidad de encontrar información que le pueda provocar un sentido de identificación.
+
+¿Qué hace? Es una persona relativamente actica, dediva su tiempo a estudiar, socializar y practicar sus hobbies/actividades que disfruta y le hacen sentir comodidad.
+
+Persona 2: 28 años, trabaja en las industrias creativas.
+----
+¿Qué piensa? Piensa que las artes y la expresividad tiene un rol en el mundo, que hacer contactos y el diálogo es importante para ser más críticos y abiertos.
+
+¿Qué siente? Siente que tiene muchas cosas que decir y que encontrar, no con urgencia, sino con tiempo y trabajo colectivo y transdisciplinar. 
+
+¿Qué hace? Es una persona que probablemente trabaja como freelancer o con colectivos artísticos, tiene una rutina de trabajo. 
+
+Persona 3: 50 años, académicx, curadorx o empleadorx. 
+----
+¿Qué piensa? Es una persona con experiencia en el arte conceptual, puede ser en el campo del entretenimiento, publicidad y/o artes visuales. Piensa que el arte digital es algo novedoso. 
+
+¿Qué siente? Siente interés por la tecnología y la estética de lo virtual. No se siente muy identificadx con lo mediático, pero siente que es algo interesante y nuevo. 
+
+¿Qué hace? Probablemente lleva una vida sedentaria, con cargas demandantes y/o familiares demandantes. Es de las personas que se comprometen mucho con su trabajo y su círculo social coincide con su círculo laboral. Lee, va a galerías, se informa de convocatorias, en otras palabras, es activx intelectualmente.
 
 ## ¿Qué existe que es similar a la propuesta? → antecedentes
 ![Screenshot de página web de artista Filip Custic, que es un autoretrato de él con hipervínculos que llevan a las diferentes secciones de la página.](/preproduccion/filip.jpeg)

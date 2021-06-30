@@ -33,14 +33,14 @@ Persona 3: 50 años, académicx, curadorx o empleadorx.
 ¿Qué hace? Probablemente lleva una vida sedentaria, con cargas demandantes y/o familiares demandantes. Es de las personas que se comprometen mucho con su trabajo y su círculo social coincide con su círculo laboral. Lee, va a galerías, se informa de convocatorias, en otras palabras, es activx intelectualmente.
 
 ## ¿Qué existe que es similar a la propuesta? → antecedentes
-![Screenshot de página web de artista Filip Custic, que es un autoretrato de él con hipervínculos que llevan a las diferentes secciones de la página.](/preproduccion/filip.jpeg)
+![Screenshot de página web de artista Filip Custic, que es un autoretrato de él con hipervínculos que llevan a las diferentes secciones de la página.](/preproduccion/filip.jpg)
 ---------
 https://filipcustic.com/
 ----
 La página de Filip Custic muestra su trabajo de una forma coherente con su línea autoral, ya que trabaja con la performatividad, el cuerpo y el autorretrato. Es una extensión
 de su obra al disponer precisamente de un autorretrato gigante de cuerpo completo que vincula las categorías de la página al recorrer su cuerpo y encontrar simbologías.
 
-![página en blanco con un modeo 3d animado en el centro](/preproduccion/dmnc.png)
+![página en blanco con un modeo 3d animado en el centro](/preproduccion/dmnc.jpg)
 ----
 http://www.dmncnation.com/
 ----
@@ -69,6 +69,24 @@ Lauren Lee McCarthy es una artista medial, su página propone una gráfica muy p
 https://www.behance.net/gallery/103434243/Pinatri-Web-Book?tracking_source=search_projects_recommended
 ----
 De esta referencia de Behance, me gusta que se incluyan en la tipografía elementos que conecten la autoría del poeta y se unifique como parte de su presentación. También me gusta el fondo oscuro con letras blancas, ya que hace más agradable a la vista la página. 
+
+![Image alt text](/preproduccion/Cristobal Cea.jpg)
+----
+http://www.cristobalcea.com/
+----
+Esta referencia es de un profesor, me gusta que su disposición es simple y concisa. Expone su portafolio claramente. 
+
+![Image alt text](/preproduccion/Valentina Cadena Renza.jpg)
+----
+https://solobobadas.com/
+---
+Es una página que incluye su estética y su concepto de obra en si misma, muesta la autoría y te hace navegar. 
+
+![Image alt text](/preproduccion/does this seem more professional .jpg)
+----
+https://mollysoda.exposed/
+----
+Es una página que incluye su estética y su concepto de obra en si misma, muesta la autoría y te hace navegar. 
 
 ## ¿Qué existe que puede inspirar la propuesta? → referentes 
 ![moodboard](/preproduccion/moodboard2.png)

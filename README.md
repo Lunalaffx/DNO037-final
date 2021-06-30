@@ -70,19 +70,19 @@ https://www.behance.net/gallery/103434243/Pinatri-Web-Book?tracking_source=searc
 ----
 De esta referencia de Behance, me gusta que se incluyan en la tipografía elementos que conecten la autoría del poeta y se unifique como parte de su presentación. También me gusta el fondo oscuro con letras blancas, ya que hace más agradable a la vista la página. 
 
-![Image alt text](/preproduccion/cristobal cea.jpg)
+![Image alt text](/preproduccion/cea.jpg)
 ----
 http://www.cristobalcea.com/
 ----
 Esta referencia es de un profesor, me gusta que su disposición es simple y concisa. Expone su portafolio claramente. 
 
-![Image alt text](/preproduccion/Valentina Cadena Renza.jpg)
+![Image alt text](/preproduccion/v-cadena.jpg)
 ----
 https://solobobadas.com/
 ---
 Es una página que incluye su estética y su concepto de obra en si misma, muesta la autoría y te hace navegar. 
 
-![Image alt text](/preproduccion/does this seem more professional .jpg)
+![Image alt text](/preproduccion/molly-soda.jpg)
 ----
 https://mollysoda.exposed/
 ----

@@ -70,7 +70,7 @@ https://www.behance.net/gallery/103434243/Pinatri-Web-Book?tracking_source=searc
 ----
 De esta referencia de Behance, me gusta que se incluyan en la tipografía elementos que conecten la autoría del poeta y se unifique como parte de su presentación. También me gusta el fondo oscuro con letras blancas, ya que hace más agradable a la vista la página. 
 
-![Image alt text](/preproduccion/Cristobal Cea.jpg)
+![Image alt text](/preproduccion/cristobal cea.jpg)
 ----
 http://www.cristobalcea.com/
 ----

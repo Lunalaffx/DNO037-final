@@ -505,11 +505,11 @@ main {
 		padding: 0;
 	}
 	.slideshow__item-subtitle {
-		color: rgb(61, 2, 85);
+		color: rgb(226, 183, 243);
 	}
 	.slideshow__item-titlewrap--featured {
 		top: 10vh;
-		right: 12rem;
+		right: 30rem;
 	}
 	.slideshow__item-title--larger {
 	    font-size: 3rem;
